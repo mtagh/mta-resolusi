@@ -3,6 +3,8 @@ RENCANA KONTEN MTA
 - Javascript
   * ES6
   * Framework Javascript
+- PHP Framework
+   ^ Laravel
    ^ Vue
    ^ React
 - Struktur Data Dasar
